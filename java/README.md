@@ -4,4 +4,4 @@
 
 ## [Тестирование](test)
 
-## [JavaDoc]()
+## [JavaDoc](javadoc)
