@@ -4,4 +4,7 @@
 
 - [Git]()
 - [Java](java)
+  - [Кодстайл](java/codestyle)
+  - [Тестирование](java/test)
+  - [JavaDoc](java/javadoc)
 - [Сервер](server)
