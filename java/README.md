@@ -1,7 +1,7 @@
 # Работа с Java
 
-## [Кодстайл](codestyle)
+[Кодстайл](codestyle)
 
-## [Тестирование](test)
+[Тестирование](test)
 
-## [JavaDoc](javadoc)
+[JavaDoc](javadoc)
